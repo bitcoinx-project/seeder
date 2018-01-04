@@ -1,7 +1,7 @@
-bitcoin-seeder
+bitcoinx-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+BitcoinX-seeder is a crawler for the BitcoinX network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
